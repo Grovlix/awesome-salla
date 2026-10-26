@@ -65,7 +65,7 @@ Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTIN
 
 - [Conditional Webhooks](https://docs.salla.dev/conditional-webhooks) - Official guide to filtering webhook payloads with rules.
 - [Salla Webhooks Guide](https://docs.salla.dev/webhooks) - Official guide to registering, securing and verifying webhooks with signature or token strategies.
-- [Webhook Reference (Salla & Zid)](https://github.com/Grovlix/salla-webhook-reference) - Bilingual (English and Arabic) reference for Salla and Zid webhook events, maintained by Grovlix (work in progress).
+- [Webhook Reference (Salla & Zid)](https://grovlix.github.io/salla-webhook-reference/) - Every Salla and Zid webhook event with the official example payload, field list and a JSON Schema, built from the platforms' own docs. Maintained by Grovlix ([source](https://github.com/Grovlix/salla-webhook-reference)).
 - [webhook-actions-js](https://github.com/SallaApp/webhook-actions-js) - Official Node.js and Express.js listener for events sent by Salla webhooks.
 
 ## Starter Templates & Example Apps | قوالب البداية والتطبيقات التجريبية
